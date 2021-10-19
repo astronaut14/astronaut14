@@ -6,7 +6,7 @@ Youtube Channel -
 https://www.youtube.com/c/SPACESIDE</b></span>
 <br>
 <h3 class="center">Score :telescope:</h3>
-<a href="https://github.com/crazyvibes07?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=astronaut14&show_icons=true&count_private=false&theme=radical" class="center"></a>
+<a href="https://github.com/astronaut14"><img src="https://github-readme-stats.vercel.app/api?username=astronaut14&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
 <a href="https://github.com/crazyvibes07?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astronaut14&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
